@@ -30,7 +30,17 @@ img {
     padding: 20px
 }
 #footer{
-    padding: 100px ;;
+    padding: 25px ;;
     font-size: 15px ;
     color: white
+}
+#equipment_picture_box{
+    display:flex;
+    gap: 20px
+}
+#equipment{
+    flex: 1
+}
+#picture{
+    flex: 2
 }
