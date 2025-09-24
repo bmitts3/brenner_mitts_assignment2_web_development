@@ -13,9 +13,10 @@ img {
 .white {
   color: white;
 }
-.blue {
-  color: navy;
+.yellow {
+  color: #FFFFA8;
 }
+
 #bold {
   font-weight: bold;
 }
