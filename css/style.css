@@ -33,7 +33,8 @@ img {
 #footer{
     padding: 25px ;;
     font-size: 15px ;
-    color: black
+    color: black ;
+    text-align:right
 }
 #equipment_picture_box{
     display:flex;
